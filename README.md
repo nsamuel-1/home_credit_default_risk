@@ -1,5 +1,5 @@
-# home_credit_default_risk
-Exploratory Data Analysis, Data Preprocessing &amp; Feature Engineering
+# Home-Credit-Default-Risk
+Exploratory Data Analysis, Data Preprocessing &amp; Feature Engineering 
 
 **Overview**
 This project involves data exploration, preprocessing, and feature engineering for the Home Credit Default Risk dataset. The primary goal is to analyze client credit data to understand factors influencing loan default rates and prepare the data for modeling.
